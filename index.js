@@ -1,2 +1,2 @@
-console.log("Hello Namaste React Js!!")
-console.log("csdcsds")
+console.log("Hello Namaste React Js!!");
+console.log("csdcsds");
